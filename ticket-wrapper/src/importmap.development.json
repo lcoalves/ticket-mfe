@@ -1,0 +1,12 @@
+{
+  "imports": {
+    "@ticket/root-config": "http://localhost:9000/ticket-root-config.js",
+    "@ticket/react-single": "http://localhost:8080/ticket-react-single.js",
+    "@ticket/react-multiples": "http://localhost:8081/ticket-react-multiples.js",
+    "@ticket/react-parcel": "http://localhost:8082/ticket-react-parcel.js",
+    "@ticket/react-route": "http://localhost:8083/ticket-react-route.js",
+    "@ticket/react-lazy": "http://localhost:8084/ticket-react-lazy.js",
+    "@ticket/react-header": "http://localhost:8085/ticket-react-header.js",
+    "@ticket/utils": "http://localhost:8086/ticket-utils.js"
+  }
+}

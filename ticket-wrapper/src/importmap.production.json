@@ -1,0 +1,12 @@
+{
+  "imports": {
+    "@ticket/root-config": "https://ticket-mfe.s3.amazonaws.com/ticket-root-config.js",
+    "@ticket/react-single": "https://ticket-mfe.s3.amazonaws.com/ticket-react-single.js",
+    "@ticket/react-multiples": "https://ticket-mfe.s3.amazonaws.com/ticket-react-multiples.js",
+    "@ticket/react-parcel": "https://ticket-mfe.s3.amazonaws.com/ticket-react-parcel.js",
+    "@ticket/react-route": "https://ticket-mfe.s3.amazonaws.com/ticket-react-route.js",
+    "@ticket/react-lazy": "https://ticket-mfe.s3.amazonaws.com/ticket-react-lazy.js",
+    "@ticket/react-header": "https://ticket-mfe.s3.amazonaws.com/ticket-react-header.js",
+    "@ticket/utils": "https://ticket-mfe.s3.amazonaws.com/ticket-utils.js"
+  }
+}
